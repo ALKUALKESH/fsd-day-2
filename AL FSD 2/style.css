@@ -1,0 +1,13 @@
+#dude {
+    color: aqua;
+    text-align: left;
+}
+.box{
+    border: 2px dotted rgb(208, 0, 250);
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10%;
+    margin-right: 30%;
+    margin-bottom: 99%;
+}
